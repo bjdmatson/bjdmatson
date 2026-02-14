@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hello!👋 My name is Ben Matson
+## Full-Stack Developer | VILT Specialist
 
 <!--
-**bjdmatson/bjdmatson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  Who Am I? What do I want people to know about me through a coder lens?
+  Points to hit:
+  * Proficient in modernizing Legacy projects
 -->
+---
+
+## 🛠 Top Technical Skills
+* **Languages**: PHP, Javascript, SQL, HTML, CSS
+* **Frameworks**: Laravel, Vue.js, Astro, Drupal,
+* **Infrastructure**: Linux, Docker, Kubernetes, GitLab CI/CD
+
+---
+
+## 💼 Professional Focus (Private Repositories)
+*Since 2019, most of my coding experience comes from working within self-hosted git repos. The following projects details the high level goal, challenges overcome, and the technical stack used:*
+
+### 🎓 University of Colorado Colorado Springs
+#### Tailored Program Finder
+* **The Problem**: A 3rd party tool was increasingly becoming inflexible, cost intensive, and difficult to match up with the academic catalog
+* **The Solution**: Creating an in house web application that syncs up with the academic catalog software while being flexible enough to create new content.
+* **Key Outcomes**: A single source of truth where admin users can market current academic programs with ease.
+* **Current Goals**: Currently embedding these programs in Drupal so visitors do not have to leave the college website
+
+[UCCS Program Finder](https://programfinder.uccs.edu)
